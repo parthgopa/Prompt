@@ -1,9 +1,0 @@
-/* src/index.css — App entry styles (theme handles resets & globals) */
-@import './styles/theme.css';
-
-#root {
-  width: 100%;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
